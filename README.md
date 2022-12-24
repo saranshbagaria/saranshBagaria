@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saransh bagaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saransh bagaria" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saranshb_1234/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saranshb_1234/profile" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saranshb_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saranshb_1234/profile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saransh_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saransh_1234" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@saranshb964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saranshb964" height="30" width="40" /></a>
 </p>
